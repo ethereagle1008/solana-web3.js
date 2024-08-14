@@ -17,7 +17,7 @@
 Use this to interact with accounts and programs on the Solana network through the Solana [JSON RPC API](https://solana.com/docs/rpc).
 
 ## Installation
-
+  
 ### For use in Node.js or a web application
 
 ```
